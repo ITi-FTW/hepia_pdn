@@ -7,6 +7,8 @@ Pour cette image (téléchargeable sur cyberlearn) vous trouverez un message cac
 
 ![alt text](https://gitlab.com/s.cardoso/hepia_pdn/raw/master/SLO/lab/representation-information/4-bonus/4.1-hepia/message_secret_hepia.bmp)
 
+
+
 Saurez vous le retrouver ?  
 **indice** : utilisez la table ASCII
 
