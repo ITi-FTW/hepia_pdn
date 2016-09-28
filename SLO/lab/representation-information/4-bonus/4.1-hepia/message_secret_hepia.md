@@ -5,7 +5,7 @@ Certaines techniques de codage de l’informations, utilisent les fichiers BITMA
 Pour cette image (téléchargeable sur cyberlearn) vous trouverez un message caché entre les adresses 0x40 et 0x8F.
 
 
-![alt text](message_secret_hepia.bmp)
+![alt text](https://gitlab.com/s.cardoso/hepia_pdn/raw/master/SLO/lab/representation-information/4-bonus/4.1-hepia/message_secret_hepia.bmp)
 
 Saurez vous le retrouver ?  
 **indice** : utilisez la table ASCII
