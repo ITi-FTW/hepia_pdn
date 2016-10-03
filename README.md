@@ -2,4 +2,4 @@
 
 ## Description
 Share all the stuff related to the ITI Formation here, please follow the
-guidelines ! [GUIDELINES](GUIDELINE.md)
+guidelines ! [GUIDELINES](CONTRIBUTING.md)
