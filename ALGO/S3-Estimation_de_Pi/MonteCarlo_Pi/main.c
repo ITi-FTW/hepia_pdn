@@ -49,4 +49,5 @@ int main(){
 	
 	// On affiche le résultat :
 	printf("Nombre(s) d'essai(s) = %ld , estimation de pi est %.10Lg \n", nb_iteration,pi);
+	return 0;
 }
