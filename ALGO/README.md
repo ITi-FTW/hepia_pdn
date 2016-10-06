@@ -3,3 +3,4 @@
 ## Regroupe module sIT 13x 
 * Serie 1 : Premier pas
 * Serie 2 : Le nombre secret
+* Serie 3 : Estimation de Pi
