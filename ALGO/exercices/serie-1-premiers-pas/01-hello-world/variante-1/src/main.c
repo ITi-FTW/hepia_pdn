@@ -23,7 +23,7 @@ int main(void)
      * 
      * @see        https://fr.wikipedia.org/wiki/Printf#C
      */
-	printf("Hello World !\n");
+    printf("Hello World !\n");
     
-	return 0;                  
+    return 0;                  
 }
